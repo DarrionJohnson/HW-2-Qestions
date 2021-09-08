@@ -1,4 +1,4 @@
-# HomeWork-2-Qestions
+# HomeWork-2-Questions
 ## Questions
 ### Question 1:  
 	What is a git repository?
